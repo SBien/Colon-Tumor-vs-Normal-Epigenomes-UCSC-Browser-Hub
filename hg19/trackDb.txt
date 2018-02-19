@@ -727,6 +727,14 @@ parent Overlay_Normal_Colon_Crypt_ATAC
 type bigWig
 color 183,183,218
 
+track DNA_accessible_CRC_ATAC_Fr4
+bigDataUrl http://fh-pi-peters-u-public.s3-website-us-west-2.amazonaws.com/ATACseq/Pilot/bigwig/Fr_4.R1.trim.PE2SE.nodup.tn5.pf.pval.signal.bigwig
+shortLabel Fr3_1_atac
+longLabel DNA_accessible_Normal_Colon_Crypt_ATAC_Fr4
+parent Overlay_Normal_Colon_Crypt_ATAC
+type bigWig
+color 183,183,218
+
 ################################################
 track Normal_enhancers
 type bigWig
