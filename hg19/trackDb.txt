@@ -92,7 +92,7 @@ color 183,183,218
 track Overlay_CRC_allStage_enhancers
 type bigWig
 container multiWig
-shortLabel CRC_AllStage_Enh
+shortLabel CRC_K27ac_Enh
 longLabel This overlay track graphs signal from 31 H3K27ac bigWig for CRC cell lines and CRC cells
 visibility full
 aggregate transparentOverlay
@@ -356,7 +356,7 @@ color 183,218,218
 track Overlay_CRC_allStage_enh_K4me1
 type bigWig
 container multiWig
-shortLabel CRC_AllStage_Enh
+shortLabel CRC_K4me1_Enh
 longLabel This overlay track graphs signal from 28 H3K4me1 bigWig for CRC cell lines and CRC cells
 visibility full
 aggregate transparentOverlay
