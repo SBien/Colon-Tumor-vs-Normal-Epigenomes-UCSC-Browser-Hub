@@ -47,7 +47,7 @@ color 183,183,218
 track Overlay_Normal_Colon_Crypt_enhancers_K4me1
 type bigWig
 container multiWig
-shortLabel NormalCryptK27Enh
+shortLabel NormalCryptMe1Enh
 longLabel This overlay track graphs signal from four H3K27ac bigWig for normal colon crypt cells
 visibility full
 aggregate transparentOverlay
